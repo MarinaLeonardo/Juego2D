@@ -1,0 +1,287 @@
+fileFormatVersion: 2
+guid: 6becbf6934975244abd21be40b6c26f3
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpritePlatoAmarillo_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 3
+        width: 196
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24ed4958039b874f9f897160a131d0b
+      internalID: -1832352076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePlatoAmarillo_1
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 0
+        width: 231
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa8e0cc1794e154284d0f28633b4154
+      internalID: 2093152861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePlatoAmarillo_2
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 0
+        width: 249
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4d38e330c810d4f950c07eab714506
+      internalID: -779533433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePlatoAmarillo_4
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 0
+        width: 275
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 749b40e6ebd53294995320554e84f480
+      internalID: 217346812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePlatoAmarillo_5
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 0
+        width: 363
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef76c9f460a98b46a6adee073cf8589
+      internalID: -2098250421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SpritePlatoAmarillo_0: -1832352076
+      SpritePlatoAmarillo_1: 2093152861
+      SpritePlatoAmarillo_10: 2126704281
+      SpritePlatoAmarillo_11: 766468587
+      SpritePlatoAmarillo_12: -1435038030
+      SpritePlatoAmarillo_13: -1849990251
+      SpritePlatoAmarillo_14: -1227301295
+      SpritePlatoAmarillo_15: -79868191
+      SpritePlatoAmarillo_16: -41575121
+      SpritePlatoAmarillo_17: -2045116187
+      SpritePlatoAmarillo_18: -1019359350
+      SpritePlatoAmarillo_19: 2030105615
+      SpritePlatoAmarillo_2: -779533433
+      SpritePlatoAmarillo_20: -1942973566
+      SpritePlatoAmarillo_21: -877916653
+      SpritePlatoAmarillo_22: 2033551935
+      SpritePlatoAmarillo_23: 51814098
+      SpritePlatoAmarillo_24: 2041679649
+      SpritePlatoAmarillo_25: 778450585
+      SpritePlatoAmarillo_26: -881524038
+      SpritePlatoAmarillo_27: 1163806446
+      SpritePlatoAmarillo_28: -741858470
+      SpritePlatoAmarillo_29: -1895144675
+      SpritePlatoAmarillo_3: 559529690
+      SpritePlatoAmarillo_30: -165823624
+      SpritePlatoAmarillo_31: -373225470
+      SpritePlatoAmarillo_32: -1895294182
+      SpritePlatoAmarillo_33: 613410104
+      SpritePlatoAmarillo_34: 533744694
+      SpritePlatoAmarillo_35: -534043041
+      SpritePlatoAmarillo_36: -816568879
+      SpritePlatoAmarillo_37: 2139280194
+      SpritePlatoAmarillo_38: -1150195739
+      SpritePlatoAmarillo_39: 913995169
+      SpritePlatoAmarillo_4: 217346812
+      SpritePlatoAmarillo_40: -1347068470
+      SpritePlatoAmarillo_41: -1138365826
+      SpritePlatoAmarillo_5: -2098250421
+      SpritePlatoAmarillo_6: 1571351922
+      SpritePlatoAmarillo_7: -858292810
+      SpritePlatoAmarillo_8: -165589832
+      SpritePlatoAmarillo_9: 1978197523
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

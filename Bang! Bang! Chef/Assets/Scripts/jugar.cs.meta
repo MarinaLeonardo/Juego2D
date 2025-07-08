@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1b0fff8cceaa30d4599ccb60c49c0741
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - platoVerde: {fileID: 6392235235571872019, guid: 7b355322f801b4c4288b243b08ab9670, type: 3}
+  - platoAmarillo: {fileID: 151746406158955258, guid: 7c69f129bbe82a749aa58c5665bf983d, type: 3}
+  - platoRojo: {fileID: 57322218895114927, guid: cfd87d3c0b761b5439f356ac419fd2f2, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,303 @@
+fileFormatVersion: 2
+guid: 5d13268281deda04ab8470b8bbf538a6
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpritePlatoRojo_1
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 0
+        width: 215
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf4bb555957bb247aa589bba507445c
+      internalID: 971178656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePlatoRojo_3
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 0
+        width: 211
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02841acedc7cc8c43bad4ebb2af86ff7
+      internalID: -1406492976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePlatoRojo_9
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 3
+        width: 200
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 8, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 920373bcbb381b548a1b47f2cd88dab5
+      internalID: -228156614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePlatoRojo_16
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 0
+        width: 302
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10606373d6c5e1145be4f89fe771e349
+      internalID: -1022287569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePlatoRojo_46
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 0
+        width: 311
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8e1846ab4d903048b0cb5b0087930b9
+      internalID: 604780343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SpritePlatoRojo_0: 155671881
+      SpritePlatoRojo_1: 971178656
+      SpritePlatoRojo_10: 349931654
+      SpritePlatoRojo_11: -1788613143
+      SpritePlatoRojo_12: 1083704642
+      SpritePlatoRojo_13: -514012286
+      SpritePlatoRojo_14: -1029808281
+      SpritePlatoRojo_15: 1579357385
+      SpritePlatoRojo_16: -1022287569
+      SpritePlatoRojo_17: -338288000
+      SpritePlatoRojo_18: 564440167
+      SpritePlatoRojo_19: 563252943
+      SpritePlatoRojo_20: 320811721
+      SpritePlatoRojo_21: -148720287
+      SpritePlatoRojo_22: 1753177883
+      SpritePlatoRojo_23: 1019273267
+      SpritePlatoRojo_24: 1309060106
+      SpritePlatoRojo_25: -675232446
+      SpritePlatoRojo_26: -1525405607
+      SpritePlatoRojo_27: -1376800232
+      SpritePlatoRojo_28: -1369232226
+      SpritePlatoRojo_29: 548491013
+      SpritePlatoRojo_3: -1406492976
+      SpritePlatoRojo_30: -1850904854
+      SpritePlatoRojo_31: -1582183197
+      SpritePlatoRojo_32: 894116033
+      SpritePlatoRojo_33: 2074589410
+      SpritePlatoRojo_34: -1338347464
+      SpritePlatoRojo_35: -338709414
+      SpritePlatoRojo_36: 298472759
+      SpritePlatoRojo_37: -1365909747
+      SpritePlatoRojo_38: -1569415284
+      SpritePlatoRojo_39: 957818878
+      SpritePlatoRojo_4: 109117238
+      SpritePlatoRojo_40: 915962981
+      SpritePlatoRojo_41: -1373203586
+      SpritePlatoRojo_42: -1637526085
+      SpritePlatoRojo_43: -1960184811
+      SpritePlatoRojo_44: 363160917
+      SpritePlatoRojo_45: -904992467
+      SpritePlatoRojo_46: 604780343
+      SpritePlatoRojo_47: -976851153
+      SpritePlatoRojo_48: 1855544811
+      SpritePlatoRojo_49: -24999321
+      SpritePlatoRojo_5: -665304280
+      SpritePlatoRojo_50: -1404344979
+      SpritePlatoRojo_51: 1942579665
+      SpritePlatoRojo_52: -1702312078
+      SpritePlatoRojo_53: -1611807401
+      SpritePlatoRojo_54: -2110875867
+      SpritePlatoRojo_55: 1252007605
+      SpritePlatoRojo_56: 587089607
+      SpritePlatoRojo_57: -872011424
+      SpritePlatoRojo_58: -1452969452
+      SpritePlatoRojo_6: 2057680675
+      SpritePlatoRojo_7: -1407094071
+      SpritePlatoRojo_8: 1087559307
+      SpritePlatoRojo_9: -228156614
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
