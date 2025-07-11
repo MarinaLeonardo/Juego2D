@@ -1,4 +1,4 @@
-# 3D Platformer Game
+# 2D Shooter Game
 
 Juego de disparos 2D hecho con Unity. Incluye físicas, probabilidad de generación y comprobación de tales generaciones
 
